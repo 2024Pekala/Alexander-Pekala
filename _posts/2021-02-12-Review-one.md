@@ -7,5 +7,5 @@ _Mapping the Gay Guide_
 **Project Url:** https://www.mappingthegayguides.org/
 
 
-Reviewed by:
-Alexander Pekala
+**Reviewed by:
+Alexander Pekala**

@@ -25,5 +25,21 @@ The site allows for its users to navigate throughout the refinement found and ma
 The creators of the website made it pretty easy to navigate. The layout of the site is well throughout and put together. The directors made it so that it is straightforward to navigate and get from one page to the next. There are seven main pages that you can navigate to these are Home, Map, Vignettes, Methodology, Ethics, News, Twitter, and a link to their GitHub. I’ve found that navigating around the website is simple. _Mapping the Gay Guides_ is a digital humanities project because it shows the development of the LGBTQ community, culture, and experiences throughout history. I believe that this is a smart decision to incorporate from Bob Damron’s Address books’ findings. This allows people to see how extensive Bob Damron’s Address books and how they gave the LGBTQ community archive of locations that were LGBTQ friendly.  
 
 
+Using the map features is easy; the directors set up the map to feature a drop-down menu for the location, amenity feature, type of place, and year. The plan currently holds between 785 entries starting in 1964 and wapping 4461 entries in 1980. The website designers incorporated such detail into every event that was listed in Damron’s address books. Each listing has a title, the year, the street address, what city, what state, which amenity feature, the type of location such as bar, hotel, club, etc., and whether or not the area is verified by google. 
+ 
+ 
+ 
+ I have found that the website is not as mobile-friendly as it is with desktop users. The interface on a mobile browser tends to run smaller. Not all the words fit within screen limits; this allows a user to have a tough time working with the map. 
+ 
+ 
+
+While the website’s map shows each location on the map, whether it is a bar/club, hotel, local hangout, etc., it continues to grow each year as new publications of Damron's Guidebooks are incorporated. While it shows a pinpoint on the map, the project should one day contain symbols that help identify locations more specifically rather than just a dot on a map.
+
+
+
+
+
+Overall, the project is exceptionally put together; I like the website’s overall layout, and the project is very user-friendly. All-in-all the project does a fantastic job of showing the struggles and development of the LGBTQ community throughout history. 
+
 
 

@@ -7,8 +7,7 @@
 ### **Project Url:** https://www.mappingthegayguides.org/
 
 
-### **Reviewed by:
-## Alexander Pekala**
+### **Reviewed by: Alexander Pekala**
 
 ![Project Picture](https://2024Pekala.github.io/Alexander-Pekala/images/HomeScreenMGG.png)
 

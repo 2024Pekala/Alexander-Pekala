@@ -10,7 +10,7 @@ _Mapping the Gay Guide_
 **Reviewed by:
 Alexander Pekala**
 
-![Project Picture](https://2024Pekala.github.io/Alexander-Pekala/images/Vignettes.png)
+![Project Picture](https://2024Pekala.github.io/Alexander-Pekala/images/HomeScreenMGG.png)
 
 **Summary:** _Mapping the Gay Guides_ is a Digital Humanities project which displays the findings of different locations that housed safety for the LGBTQ community in the early 1960s. The website follows _Bob Damron’s_ books, a gay man who frequently traveled around the united states. Damron wrote these travel guides for the LGBTQ community to follow to find safe locations to gather, such as hotels, bars/clubs, and more. The project was directed underneath project directors Dr. Amanda Regan and Dr. Eric Gonzaba. 
 

@@ -19,6 +19,8 @@ The site allows for its users to navigate throughout the refinement found and ma
 
 **Findings:** _Mapping the Gay Guides_ does a great job at integrating Damron’s address books and technology use. As stated in the Summary, the website uses Vignettes as visual guides to establish specific events regarding the history of the LGBTQ community in the United States throughout a period. Using the vignettes allows for the user to get to a particular event in the database. One main feature of navigating the website is by using Vignettes. Vignettes are smaller events or case studies that happen to be based on the usage of visualizations. The website is always updating, and the authors hope to release more information from guides to include 1960-present times. With this information, I believe that a great addition to the website would be by adding the vignettes to pop up on the map. 
 
+![Project Picture](https://2024Pekala.github.io/Alexander-Pekala/images/Vignettes.png)
+
 
 
 

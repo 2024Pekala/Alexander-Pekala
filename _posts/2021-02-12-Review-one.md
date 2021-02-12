@@ -12,7 +12,7 @@ Alexander Pekala**
 
 ![Project Picture](https://2024Pekala.github.io/Alexander-Pekala/images/HomeScreenMGG.png)
 
-**Summary:** _Mapping the Gay Guides_ is a Digital Humanities project which displays the findings of different locations that housed safety for the LGBTQ community in the early 1960s. The website follows _Bob Damron’s_ books, a gay man who frequently traveled around the united states. Damron wrote these travel guides for the LGBTQ community to follow to find safe locations to gather, such as hotels, bars/clubs, and more. The project was directed underneath project directors Dr. Amanda Regan and Dr. Eric Gonzaba. 
+**Summary:** _Mapping the Gay Guides_ is a Digital Humanities project which displays the findings of different locations that housed safety for the LGBTQ community in the early 1960s. The website follows **_Bob Damron’s_** books, a gay man who traveled around the united states. Damron wrote these travel guides for the LGBTQ community to follow to find safe locations to gather, such as hotels, bars/clubs, and more. The project was directed underneath project directors Dr. Amanda Regan and Dr. Eric Gonzaba. 
 
 The site allows for its users to navigate throughout the refinement found and mapped for queer communities.  The technology used in this project includes geocoding, leaflet, and open street map. Geocoding is where an address is converted into spatial data and then returned as coordinates. Leaflet is used for the interactive UI.
 
@@ -28,7 +28,7 @@ Using the vignettes allows for the user to get to a particular event in the data
 
 
 
-I’ve found that navigating around the website is simple. _MGG_ is a digital humanities project because it shows the development of the LGBTQ community, culture, and experiences throughout history. I believe that this is a smart decision to incorporate from Bob Damron’s Address books’ findings. This allows people to see how extensive Bob Damron’s Address books and how they gave the LGBTQ community archive of locations that were LGBTQ friendly.  
+I’ve found that navigating around the website is simple. _MGG_ is a digital humanities project because it shows the development of the LGBTQ community, culture, and experiences throughout history. I believe that this is a smart decision to incorporate from Bob Damron’s Address books’ findings. This allows people to see how extensive **_Bob Damron’s** Address books_ and how they gave the LGBTQ community archive of locations that were LGBTQ friendly.  
 
 
 Using the map features is easy; the directors set up the map to feature a drop-down menu for the location, amenity feature, type of place, and year. The plan currently holds between 785 entries starting in 1964 and wapping 4461 entries in 1980. The website designers incorporated such detail into every event that was listed in Damron’s address books. Each listing has a title, the year, the street address, what city, what state, which amenity feature, the type of location such as bar, hotel, club, etc., and whether or not the area is verified by google. 

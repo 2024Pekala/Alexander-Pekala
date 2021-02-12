@@ -14,7 +14,7 @@ Alexander Pekala**
 
 **Summary:** _Mapping the Gay Guides_ is a Digital Humanities project which displays the findings of different locations that housed safety for the LGBTQ community in the early 1960s. The website follows **_Bob Damron’s_** books, a gay man who traveled around the united states. Damron wrote these travel guides for the LGBTQ community to follow to find safe locations to gather, such as hotels, bars/clubs, and more. The project was directed underneath project directors Dr. Amanda Regan and Dr. Eric Gonzaba. 
 
-The site allows for its users to navigate throughout the refinement found and mapped for queer communities.  The technology used in this project includes geocoding, leaflet, and open street map. Geocoding is where an address is converted into spatial data and then returned as coordinates. Leaflet is used for the interactive UI.
+**Technology**: The site allows for its users to navigate throughout the refinement found and mapped for queer communities. Geocoding, Leaflet, and open street map are used. Geocoding is where an address is converted into spatial data and then returned as coordinates. Leaflet is used for the interactive UI.
 
 
 **Findings:** _Mapping the Gay Guides_ (MGG) does a great job at integrating Damron’s address books and technology use. As stated in the Summary, the website uses Vignettes as visual guides to establish specific events regarding the history of the LGBTQ community in the United States throughout a period. 

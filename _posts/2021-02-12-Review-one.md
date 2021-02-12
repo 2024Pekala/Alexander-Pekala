@@ -40,7 +40,7 @@ Using the map features is easy; the directors set up the map to feature a drop-d
  ![Project Picture](https://2024Pekala.github.io/Alexander-Pekala/images/MGGData.png)
  
  
- I have found that _MGG_ is not as mobile-friendly as it is with desktop users. The interface on a mobile browser tends to run smaller. Not all the words fit within screen limits; this allows a user to have a tough time working with the map. As you can see in the photo above, the interface on a desktop computer vs. the photo below is an image taken from a mobile device perspective.
+ I have found that _MGG_ is not as mobile-friendly as it is with desktop users. The interface on a mobile browser tends to run smaller. Not all the words fit within screen limits; this allows a user to have a tough time working with the map. As you can see in the photo above, the interface on a desktop computer vs. the photo below is an image taken from a mobile device perspective. In order to maximize potential of mobile users, the program may consider being able to zoom out. 
  
   ![Project Picture](https://2024Pekala.github.io/Alexander-Pekala/images/MobileMapMGG.png)
 

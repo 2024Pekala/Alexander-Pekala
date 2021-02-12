@@ -1,5 +1,5 @@
 ### _Project:_  
-_Mapping the Gay Guide_
+**_Mapping the Gay Guide_**
 
 #### **Project Director(s):**
 **Dr. Amanda Regan, Dr. Eric Gonzaba**

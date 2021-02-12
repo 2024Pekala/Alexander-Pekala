@@ -40,11 +40,11 @@ Using the map features is easy; the directors set up the map to feature a drop-d
  ![Project Picture](https://2024Pekala.github.io/Alexander-Pekala/images/MGGData.png)
  
  
- I have found that the website is not as mobile-friendly as it is with desktop users. The interface on a mobile browser tends to run smaller. Not all the words fit within screen limits; this allows a user to have a tough time working with the map. 
+ I have found that _MGG_ is not as mobile-friendly as it is with desktop users. The interface on a mobile browser tends to run smaller. Not all the words fit within screen limits; this allows a user to have a tough time working with the map. 
  
   ![Project Picture](https://2024Pekala.github.io/Alexander-Pekala/images/MobileMapMGG.png)
 
-While the website’s map shows each location on the map, whether it is a bar/club, hotel, local hangout, etc., it continues to grow each year as new publications of Damron's Guidebooks are incorporated. While it shows a pinpoint on the map, the project should one day contain symbols that help identify locations more specifically rather than just a dot on a map.
+While the website’s map shows each location on the map, whether it is a bar/club, hotel, local hangout, etc., it continues to grow each year as new publications of Damron's Guidebooks are incorporated. While it shows a pinpoint on the map, _MGG_ should one day update their map to contain symbols that help identify locations more specifically rather than just a dot.
 
 
 

@@ -3,7 +3,7 @@
 
 
 
-  This assignment’s purpose was to code four pages from “The Yellow Wall-Paper” by Charlotte Perkins Stetson using the Text Encoding Initiative, also known as TEI. I was assigned pages 4,5,6 and 7. We had to use this program called Oxygen to code using TEI. The program looked difficult based on first glance, but it was easier than I expected once I got into the groove of things. 
+  This assignment’s purpose was to code four pages from _“The Yellow Wall-Paper” by Charlotte Perkins Stetson_ using the Text Encoding Initiative, also known as TEI. I was assigned pages 4,5,6 and 7. We had to use this program called Oxygen to code using TEI. The program looked difficult based on first glance, but it was easier than I expected once I got into the groove of things. 
 
 
 ![Profile Picture](https://2024Pekala.github.io/Alexander-Pekala/images/Code.png)

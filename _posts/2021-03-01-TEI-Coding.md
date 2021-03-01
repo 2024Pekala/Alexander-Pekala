@@ -22,3 +22,6 @@ Personally, I found that using Oxygen and TEI, in general, to be a tad difficult
 
 
 ![Profile Picture](https://2024Pekala.github.io/Alexander-Pekala/images/Twitter-Code.png)
+
+
+I tried to follow along when my professor explained how TEI works and how to navigate Oxygen, although I found it quite difficult to do both at the same time. I was so happy to see that she recorded that lecture. Therefore, I could go back and forth with the recording to help familiarize myself with the program. I made sure to save my work frequently to ensure that I will not lose all my code. Overall my experience with TEI was interesting, and I am proud to have been able to code without having any prior experience.

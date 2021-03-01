@@ -12,5 +12,4 @@ Before we even started with coding, we were tasked to mark up each of our pages,
 We had to use <pb, <p></p>, <hi, and more to code each section of the book.
 For me, it took quite a while to mark up all of my work. I personally liked the typed-up pages that our professor gave us, or else I’d probably still be trying to figure out what the manuscript says. 
 
-![Profile Picture](https://2024Pekala.github.io/Alexander-Pekala/images/Code.png)
-
+![Profile Picture](https://2024Pekala.github.io/Alexander-Pekala/images/Twitter-Code.png)

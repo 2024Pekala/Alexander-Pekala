@@ -9,7 +9,17 @@ The program looked difficult based on first glance, but it was easier than I exp
 
 
 Before we even started with coding, we were tasked to mark up each of our pages, making it easier to code since we’d know what to do with each paragraph.
-We had to use **<pb,<hi,and <p </p**  and more to code each section of the book.
+We had to use **<pb,<hi, and <p </p**  and more to code each section of the book.
 For me, it took quite a while to mark up all of my work. I personally liked the typed-up pages that our professor gave us, or else I’d probably still be trying to figure out what the manuscript says. 
+
+
+![Profile Picture](https://2024Pekala.github.io/Alexander-Pekala/images/TEI-On-Paper.png)
+
+
+
+
+
+
+
 
 ![Profile Picture](https://2024Pekala.github.io/Alexander-Pekala/images/Twitter-Code.png)

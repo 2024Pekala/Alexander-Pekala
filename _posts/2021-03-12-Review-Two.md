@@ -21,7 +21,7 @@ _"The Lost Museum"_ is a Digital Humanities project that displays the history of
 
 This site uses a lot of visual techniques such as SoftImage. This site uses a lot of optical technology such as SoftImage, a 3-D animation software to model the framework and keep specifics in the rooms. 3-D Studio Max is used to model more spaces while maintaining the same architecture. Adobe Photoshop was used to wrap around the different models created and incorporate different lighting styles throughout the website. QuickTimeVR Authoring Studio is used in the waxworks room; by doing so, it allowed the users to get a panorama view of the room while exploring the museum. Media Cleaner Pro was used to compress the different files into videos and then were transferred into individual flash movies. 
 
-[Project Picture](https://2024Pekala.github.io/Alexander-Pekala/images/Options.png)
+![Project Picture](https://2024Pekala.github.io/Alexander-Pekala/images/Options.png)
 
 
 After 2015 the site changed from Flash to HTML and used JavaScript and CSS3 Media Queries programs. Both of these programs utilized the capabilities to fit the screens’ layouts if used with different devices. 
@@ -37,5 +37,20 @@ An interactive mystery-solving game.
 _"The Lost Museum”_ has an interactive mystery game that allows its users to solve a mystery inside the museum. The program runs pretty smoothly. In the game, there are clues, access to the site’s archive, hotspots to help find what you can use the magnifying glass on, and an area to match the clue to the suspect. The site goes through each room which leads to readings about the exhibits and attractions. 
 
 
+
+Each time a user interacts with a clue or room, a page leading to the designated archive article will pop up. This is helpful for users that want to understand the object/exhibit. I love how the website incorporates a page specified to resources. 
+
+
+I enjoyed the archive page on the website; it allowed me to explore different documents and get a more vital understanding of each exhibit. I especially liked reading the essay about the history of the Barnum American Museum. The article gives a brief overview of the museum and how it was a pioneer for American culture. 
+
+I was pleasantly surprised to see that _“The Lost Museum”_ worked great on my electronic devices, and I’d say that this works almost as well as the computer browser. I found it relatively easy to interact with using a browser interface. This made me happy to see that the website is compatible with IOS and Android phones. The users will not have to worry about changing the text size as the website automatically fits the information onto your screen. 
+
+![Project Picture](https://2024Pekala.github.io/Alexander-Pekala/images/MobileFriendly.png)
+
+
+
+I enjoy the interactive interface with the website; it is user-friendly and built for any age to understand how to work it. 
+
+I have found that a few attractions/exhibits have missing pages when trying to reach the archive information. I feel like in a future update; this can be revised and looked at, helping users understand the knowledge. 
 
 

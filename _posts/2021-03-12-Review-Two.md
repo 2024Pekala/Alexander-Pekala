@@ -23,3 +23,19 @@ This site uses a lot of visual techniques such as SoftImage. This site uses a lo
 
 [Project Picture](https://2024Pekala.github.io/Alexander-Pekala/images/Options.png)
 
+
+After 2015 the site changed from Flash to HTML and used JavaScript and CSS3 Media Queries programs. Both of these programs utilized the capabilities to fit the screens’ layouts if used with different devices. 
+
+
+
+
+**Findings:**
+_"The Lost Museum"_ does an excellent job at integrating information from Barnum’s Museum of America. The website includes:
+An interactive mystery-solving game.
+ An archive full of readings and activities.
+ A classroom full of references.
+_"The Lost Museum”_ has an interactive mystery game that allows its users to solve a mystery inside the museum. The program runs pretty smoothly. In the game, there are clues, access to the site’s archive, hotspots to help find what you can use the magnifying glass on, and an area to match the clue to the suspect. The site goes through each room which leads to readings about the exhibits and attractions. 
+
+
+
+

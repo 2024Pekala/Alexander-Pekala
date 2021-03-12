@@ -56,6 +56,8 @@ I have found that a few attractions/exhibits have missing pages when trying to r
 
 A downside to the mystery game is that I have discovered difficulty resetting the clues and suspects. As of right now, once you assign a clue to a suspect and confirm that it is valid, you cannot reverse or edit this selection. Therefore this could have a potential update in the future that will allow its users to edit and reset their progress. 
 
+![Project Picture](https://2024Pekala.github.io/Alexander-Pekala/images/Clue.png)
+
 
 One thing that I don’t really like about this website is that in order to work with the interactive game, the users have to create an account; because of this it might limit the amount of users that actually want to create an account and view the game. 
 

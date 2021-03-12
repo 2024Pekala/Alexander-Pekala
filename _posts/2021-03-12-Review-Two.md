@@ -54,3 +54,16 @@ I enjoy the interactive interface with the website; it is user-friendly and buil
 I have found that a few attractions/exhibits have missing pages when trying to reach the archive information. I feel like in a future update; this can be revised and looked at, helping users understand the knowledge. 
 
 
+A downside to the mystery game is that I have discovered difficulty resetting the clues and suspects. As of right now, once you assign a clue to a suspect and confirm that it is valid, you cannot reverse or edit this selection. Therefore this could have a potential update in the future that will allow its users to edit and reset their progress. 
+
+
+One thing that I don’t really like about this website is that in order to work with the interactive game, the users have to create an account; because of this it might limit the amount of users that actually want to create an account and view the game. 
+
+In the homepage of the website there is a video that goes over the site, some users may not want to watch the video so maybe an option with just the text would be a great alternative. 
+
+![Project Picture](https://2024Pekala.github.io/Alexander-Pekala/images/LostMuseum.png)
+
+**_Overall:_** 
+Overall this project is structured beautifully, and it gives a great experience to those who visit the site. I enjoyed the layout of the website and encouraged others to see what it has to offer. I liked how user-friendly this website is, and I felt like I learned a lot of helpful information from _“The Lost Museum.”_ 
+
+

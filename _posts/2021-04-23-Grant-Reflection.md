@@ -10,3 +10,10 @@ After seeing how my high school friends stress out over which colleges to apply 
 
 ![Project Picture](https://2024Pekala.github.io/Alexander-Pekala/images/GrantData.png)
 
+
+### Start of Project
+
+I had no idea where to start when it came to the Environmental scan. I remember looking over so many articles regarding colleges, but it was difficult to find scholarly articles that contained information about ranking. I found articles that expand on topics of Higher ranks that would attract more elite students, funds, and support. Overall It was pretty challenging to find articles and other projects that are similar to my project.
+
+I was excited and ready to put this project together, I loved the thought of having a mapping project, and I get to use my knowledge and background of GIS to use. I was thrilled to expand my knowledge, and what better than mapping, which gives an interactive style and feels compared to just an article or blog. 
+

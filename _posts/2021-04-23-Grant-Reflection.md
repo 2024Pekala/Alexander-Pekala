@@ -1,6 +1,6 @@
-### Grant Process and Reflection Blog
+# Grant Process and Reflection Blog
 
-# Introduction 
+  ### Introduction 
 
 
 

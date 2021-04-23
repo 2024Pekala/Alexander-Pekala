@@ -17,3 +17,14 @@ I had no idea where to start when it came to the Environmental scan. I remember 
 
 I was excited and ready to put this project together, I loved the thought of having a mapping project, and I get to use my knowledge and background of GIS to use. I was thrilled to expand my knowledge, and what better than mapping, which gives an interactive style and feels compared to just an article or blog. 
 
+### Reflection
+
+Opposite to the Environmental scan, I felt great about writing my grant narrative because it had to do with my project and not what articles, scholarships, and other projects are about. I could write about my ideas and what technology and programs I would use to run smoothly.
+
+For the Grant process, I have looked at the outlines and reviewed each section accordingly. I felt pretty good after going over the peer review outline and comparing it to my work. While it’s not a different pair of eyes, I could see it from a different perspective, and I can edit and change it to fit the descriptions better. I feel as my writing can always be improved. I continue to revise and edit my paper to make it the best it can be.
+
+
+For the Grant process, I have looked at the outlines and reviewed each section accordingly. I felt pretty good after going over the peer review outline and comparing it to my work. While it’s not a different pair of eyes, I could see it from a different perspective, and I can edit and change it to fit the descriptions better. I feel as my writing can always be improved. I continue to revise and edit my paper to make it the best it can be.
+
+![Project Picture](https://2024Pekala.github.io/Alexander-Pekala/images/PeerReviewTweet.png)
+

@@ -28,3 +28,24 @@ For the Grant process, I have looked at the outlines and reviewed each section a
 
 ![Project Picture](https://2024Pekala.github.io/Alexander-Pekala/images/PeerReviewTweet.png)
 
+In class as a whole, I thoroughly enjoyed having the opportunity to peer review my classmates and get feedback on my writing. I believe that peer reviews in this class are highly beneficial for me to get a different pair of eyes who have a different perspective.
+
+
+### Challenges and Setbacks
+
+I started on quite the bumpy road when it came to the Grant writing process. I, unfortunately, was not able to participate in the peer reviews due to computer issues and had to ship my computer away to get fixed at the same time. However,  lost my entire paper or everything I had gotten done, such as my Environmental Scan and my Grant Narrative, because they ended up wiping my hard drive. Putting me at a bit of a disadvantage because I had to buy a new computer.
+
+
+
+I sadly had to restart my Grant as a whole which was somewhat a struggle; I knew what to write about, but I lost all the sources I had, so it took a long time to figure out where and what sources I had used before the incident. 
+
+
+### Overall Class
+
+
+I liked how we had to post on Twitter for class, I never had a professor or teacher that has done that, and I find it interesting, and I like how I can see or reply to my classmates. I learned a lot about what it takes behind the scenes with the TEI and grant project. It gave me a better insight into how much work goes into the project and not as simple as I had initially thought. 
+Overall I was thrilled to take this course because I loved the thought of being a Digital Humanities minor after learning about it in high school. I feel as I have improved as a writer, and I can’t wait to take another class with Dr. Stover next semester and learn even more about Digital Humanities. 
+
+![Project Picture](https://2024Pekala.github.io/Alexander-Pekala/images/OverallClass.png)
+
+

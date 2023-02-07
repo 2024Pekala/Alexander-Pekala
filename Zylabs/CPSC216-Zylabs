@@ -1,1 +1,40 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <!-- Some HTML goes here -->
+   <title> Leesburg, VA </title>
+   <h1> Leesburg, VA </h1>
+</head>
+<section>
+  <h2> Location </h2>
+    <p> Leesburg is Located 40.5 Miles from District of Columbia.</p>
+</section>
+
+<section>
+  <h2> About </h2>
+  <section>
+    <h3> Weather </h3>
+    <p>Virginia has very bipolar weather, it changes drastically throughout the year, it can go from 85 one day then 32 the next.  or rainy one day and sunny the next.
+  </section>
+
+  <section>
+    <h3> Population </h3>
+    <p> The total population of Leesburg, VA is currently 48,908 </p>
+  </section>
+
+  <section>
+    <h3> Sports <h3>
+      <p> Basketball and Baseball are the most popular sports in Leesburg, VA </p>
+  </section>
+
+  <section>
+    <h2> Things to Do </h2>
+    <ul>
+      <li> Hiking </li>
+      <li> Visiting Delirium cafe for a beer </li>
+      <li> Going to the Farmers Market every weekend </li>
+    </ul>
+  </section>
+  </html>
